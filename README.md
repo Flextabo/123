@@ -1,3 +1,3 @@
-<h1>Hello</h1>
-<img src="1.jpg" alt="Я">
-<img src="2.jpg" alt="Content Warning">
+<h1 style="align-items: center">Привет!</h1>
+Это мой первый опыт в гитхаб!
+И просто узнаю что тут можно делать. 
